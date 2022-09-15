@@ -1,0 +1,18 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/asus/Documents/COURS/ENSICAEN/1A/1ère periode/INTRO PROGRAMMATION/projet/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe cmTC_ab703/fast && C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_ab703.dir\build.make CMakeFiles/cmTC_ab703.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/asus/Documents/COURS/ENSICAEN/1A/1Þre periode/INTRO PROGRAMMATION/projet/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ab703.dir/testCCompiler.c.obj
+C:\Haskell\mingw\bin\gcc.exe    -o CMakeFiles\cmTC_ab703.dir\testCCompiler.c.obj   -c "C:\Users\asus\Documents\COURS\ENSICAEN\1A\1├¿re periode\INTRO PROGRAMMATION\projet\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+realgcc.exe: error: C:\\Users\\asus\\Documents\\COURS\\ENSICAEN\\1A\\1+┐re periode\\INTRO PROGRAMMATION\\projet\\cmake-build-debug\\CMakeFiles\\CMakeTmp\\testCCompiler.c: No such file or directory
+realgcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_ab703.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_ab703.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_ab703.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/asus/Documents/COURS/ENSICAEN/1A/1Þre periode/INTRO PROGRAMMATION/projet/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_ab703/fast' failed
+mingw32-make.exe: *** [cmTC_ab703/fast] Error 2
+
+
+

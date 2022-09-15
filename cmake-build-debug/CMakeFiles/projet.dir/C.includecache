@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/Documents/COURS/ENSICAEN/1A/INTRO/projet/creation_labyrinth.h
+
+C:/Users/asus/Documents/COURS/ENSICAEN/1A/INTRO/projet/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+dirent.h
+-
+creation_labyrinth.h
+C:/Users/asus/Documents/COURS/ENSICAEN/1A/INTRO/projet/creation_labyrinth.h
+
